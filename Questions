@@ -1,0 +1,18 @@
+1. survivers vs non survivers
+    1. survived vs non survived count
+    2. Survived vs unsurvived percentage
+    3. Average fair of survived and unsurvived
+
+2. Female vs male surviver
+    1. Total Male counts vs Female counts
+    2. Overall male vs female surviver counts
+    
+3. PClass
+    1. counts of each class
+    2.counts of each class(survived vs unsurvived)
+    3. counts of each class with total female (survived and unsurvived) vs total male(survived and unsurvived)
+    
+4. Age with violentplot
+
+5.Embarked
+    
